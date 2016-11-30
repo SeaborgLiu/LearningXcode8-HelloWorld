@@ -23,5 +23,11 @@ class ViewController: UIViewController {
     // test
     @IBAction func unwindToSelection(sender: UIStoryboardSegue)  {
     }
-}
 
+    func  testFunction1  ()  { print  ("test  1")
+    }
+
+    func  testFunction2  ()  { print  ("test  2")
+    }
+
+}
